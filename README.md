@@ -20,4 +20,6 @@ This application is designed to generate a password based on user provided input
 
 ## Visual
 
-![](Assets\PW-Generator-screenshot.png)
+![PW-Generator-screenshot](https://github.com/Z-Alfadl/Module-3-Challenge--Password-Generator/assets/113720462/9c4eee3c-d8da-42e6-8385-ef1add6389ad)
+
+or-screenshot.png)
