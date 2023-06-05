@@ -26,6 +26,3 @@ the type of characters that are to be included.
 ## Source
 https://stackoverflow.com/questions/70706563/javascript-password-generator-sometimes-not-including-character-selections
 
-![PW-Generator-screenshot](https://github.com/Z-Alfadl/Module-3-Challenge--Password-Generator/assets/113720462/9c4eee3c-d8da-42e6-8385-ef1add6389ad)
-
-or-screenshot.png)
