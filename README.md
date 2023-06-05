@@ -21,7 +21,7 @@ the type of characters that are to be included.
 
 ## Visual
 
-![](Assets\PW-Generator-screenshot.png)
+![](https://github.com/Z-Alfadl/Module-3-Challenge--Password-Generator/blob/main/Assets/PW-Generator-screenshot.png)
 
 ## Source
 https://stackoverflow.com/questions/70706563/javascript-password-generator-sometimes-not-including-character-selections
